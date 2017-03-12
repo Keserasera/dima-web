@@ -193,10 +193,6 @@ hr {
     color: #fff;
 }
 
-.custom-navbar .nav li {
-  
-}    
-
 .custom-navbar .nav li a {
 	display: block;
 	padding: 15px 20px;
@@ -427,7 +423,6 @@ hr {
   position: relative;
   text-align: center;
   margin-bottom: 92px;
-  margin
 }
 #people .people-wrapper{
 	width: 150px;
